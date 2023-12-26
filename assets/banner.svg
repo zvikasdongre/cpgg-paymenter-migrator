@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1200"
+   height="628"
+   viewBox="0 0 317.49999 166.15834"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="banner.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/xvishaldongre/development/cpgg-paymenter-migrator/banner.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1200px"
+     inkscape:zoom="0.57730814"
+     inkscape:cx="575.94892"
+     inkscape:cy="330.84584"
+     inkscape:window-width="1600"
+     inkscape:window-height="928"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1112"
+     inkscape:snap-page="true" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="r5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6572815,0.86869171,-1.6572815,0.86869171,-408.96496,-8.6970435)"
+       x2="724.07739"
+       y2="2.9538755e-06"
+       x1="1.1723038e-06"
+       y1="-1.0401045e-06">
+      <stop
+         stop-color="#68AEFF"
+         id="stop1083"
+         style="stop-color:#000000;stop-opacity:1" />
+      <stop
+         offset="1"
+         stop-color="#003EB7"
+         id="stop1085"
+         style="stop-color:#212c64;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient
+       id="r6"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,512,-512,0,256,0)">
+      <stop
+         stop-color="white"
+         id="stop1088" />
+      <stop
+         offset="1"
+         stop-color="white"
+         stop-opacity="0"
+         id="stop1090" />
+    </radialGradient>
+    <linearGradient
+       id="r5-3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.31581401,0.31581402,-0.31581401,0.31581402,-312.12778,190.96608)"
+       x2="554.45703"
+       y2="3.3719394">
+      <stop
+         stop-color="#68AEFF"
+         id="stop1681" />
+      <stop
+         offset="1"
+         stop-color="#003EB7"
+         id="stop1683" />
+    </linearGradient>
+    <radialGradient
+       id="r6-5"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,512,-512,0,256,0)">
+      <stop
+         stop-color="white"
+         id="stop1686" />
+      <stop
+         offset="1"
+         stop-color="white"
+         stop-opacity="0"
+         id="stop1688" />
+    </radialGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#r5"
+       id="linearGradient44384"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6572815,0.86731069,-1.6572815,0.86731069,-408.96495,-8.6970439)"
+       x1="362.03867"
+       y1="-362.03867"
+       x2="197.94589"
+       y2="197.94589" />
+    <radialGradient
+       id="r6-53"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(256) rotate(90) scale(512)">
+      <stop
+         stop-color="white"
+         id="stop1902" />
+      <stop
+         offset="1"
+         stop-color="white"
+         stop-opacity="0"
+         id="stop1904" />
+    </radialGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       style="fill:none"
+       id="g1112"
+       transform="matrix(0.26458333,0,0,0.26458333,108.20531,2.3010927)">
+      <rect
+         id="r4"
+         width="1200"
+         height="628.00006"
+         x="-408.96497"
+         y="-8.6970434"
+         rx="0"
+         fill="url(#r5)"
+         stroke="#ffffff"
+         stroke-width="0"
+         stroke-opacity="1"
+         paint-order="stroke"
+         style="fill:url(#linearGradient44384);fill-opacity:1"
+         inkscape:export-filename="/home/xvishaldongre/development/cpgg-paymenter-migrator/banner.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         id="r4-3"
+         width="228.67377"
+         height="228.67378"
+         x="-312.12778"
+         y="190.96608"
+         rx="57.168442"
+         fill="url(#r5)"
+         stroke="#ffffff"
+         stroke-width="0"
+         stroke-opacity="1"
+         paint-order="stroke"
+         style="fill:url(#r5-3)" />
+      <clipPath
+         id="clip-6">
+        <use
+           xlink:href="#r4-3"
+           id="use1894"
+           transform="translate(312.12779,-190.96607)"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+      </clipPath>
+      <clipPath
+         id="clip">
+        <use
+           xlink:href="#r4-5"
+           id="use1678"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+      </clipPath>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="1.0518247"
+         y="280.82007"
+         id="text5932"><tspan
+           sodipodi:role="line"
+           id="tspan5930"
+           x="1.0518247"
+           y="280.82007" /></text>
+      <g
+         id="g15778"
+         transform="translate(-3.162829,-0.49999639)">
+        <g
+           id="g3728"
+           transform="matrix(0.44662847,0,0,0.44662847,-308.96495,191.46608)">
+          <rect
+             id="r4-5"
+             width="512"
+             height="512"
+             x="0"
+             y="0"
+             rx="128"
+             fill="url(#r5)"
+             stroke="#ffffff"
+             stroke-width="0"
+             stroke-opacity="1"
+             paint-order="stroke"
+             style="fill:none;fill-opacity:0.121212" />
+          <svg
+             width="352"
+             height="352"
+             viewBox="0 0 24 24"
+             fill="none"
+             x="80"
+             y="80"
+             alignment-baseline="middle"
+             style="color:#ffffff"
+             version="1.1"
+             id="svg1695">
+            <path
+               d="M 3,5 H 21 M 10,10 H 21 M 10,14 H 21 M 3,19 H 21 M 3,9 6,12 3,15"
+               stroke="#ffffff"
+               stroke-width="2"
+               stroke-linecap="round"
+               stroke-linejoin="round"
+               id="path1693" />
+          </svg>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+           x="343.74774"
+           y="312.2558"
+           id="text17430"><tspan
+             sodipodi:role="line"
+             id="tspan17428"
+             x="343.74774"
+             y="312.2558" /></text>
+        <g
+           id="g44360"
+           transform="translate(343.25973,-41.82835)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:72px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.0799"
+             x="-380.59595"
+             y="307.77686"
+             id="text7784"><tspan
+               sodipodi:role="line"
+               id="tspan7782"
+               x="-380.59595"
+               y="307.77686"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ffffff;stroke-width:1.0799">Users Migrator</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:46px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:737.12;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.0799"
+             x="-11.444488"
+             y="378.94632"
+             id="text18658"
+             transform="translate(-368.00294,-4.651981)"><tspan
+               x="-11.444488"
+               y="378.94632"
+               id="tspan2891"><tspan
+                 style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff"
+                 id="tspan2889">Migrate all users from Ctrlpanel.gg </tspan></tspan><tspan
+               x="-11.444488"
+               y="438.64174"
+               id="tspan2895"><tspan
+                 style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff"
+                 id="tspan2893">to Paymenter easily!</tspan></tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+             x="-5.7218332"
+             y="-55.536819"
+             id="text57378"><tspan
+               sodipodi:role="line"
+               id="tspan57376"
+               x="-5.7218332"
+               y="-55.536819" /></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+           x="1713.2286"
+           y="370.43002"
+           id="text29274"><tspan
+             sodipodi:role="line"
+             id="tspan29272"
+             x="1713.2286"
+             y="370.43002" /></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="219.4021"
+         y="419.76709"
+         id="text15516"><tspan
+           sodipodi:role="line"
+           id="tspan15514"
+           x="219.4021"
+           y="419.76709" /></text>
+    </g>
+  </g>
+</svg>
