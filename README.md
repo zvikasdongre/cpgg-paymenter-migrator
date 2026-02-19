@@ -1,3 +1,6 @@
+> [!CAUTION]
+> **DEPRICATION NOTICE**: This script no longer works on latest versions of CtrlPanel and Paymenter.
+
 # Ctrlpanel.gg to Paymenter users migrator
 
 This program migrates all user attributes including passwords, email verification, created and updated timestamps.
